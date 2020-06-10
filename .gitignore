@@ -95,4 +95,4 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
-# End of https://www.toptal.com/developers/gitignore/api/node,code
+public/*.*

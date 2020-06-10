@@ -1,0 +1,29 @@
+{
+    "name": "startbootstrap-agency",
+    "version": "1.0.0",
+    "description": "An agency theme website developed with Bootstrap 4.4.1, CSS3, HTML5, grid technologies, Font Awesome 4.7.0, Google Fonts, responsive integration technologies",
+    "scripts": {
+      "start": "lite-server"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/SinemSungur/startbootstrap-agency"
+    },
+    "keywords": [
+      "css3",
+      "html5",
+      "flex",
+      "responsive-web-design",
+      "bootstrap",
+      "media-queries"
+    ],
+    "author": "Sinem Sungur",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/SinemSungur/startbootstrap-agency"
+    },
+    "homepage": "https://github.com/SinemSungur/startbootstrap-agency#readme",
+    "dependencies": {
+      "lite-server": "^2.5.4"
+    }
+  }
